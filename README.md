@@ -1,4 +1,4 @@
-## Hi there, I'm Naswih <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi there, I'm Afna <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=afna34&color=blueviolet)
 
